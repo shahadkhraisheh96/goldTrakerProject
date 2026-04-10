@@ -27,7 +27,7 @@
 }
 
 body {
-  background-color: var(--bg);
+  background-color: #d9c4a8;
   color: var(--text);
   font-family: "DM Sans", sans-serif;
   min-height: 100vh;
